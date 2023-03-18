@@ -1,6 +1,6 @@
 # Columbus regelement en overige zaken
 
-Dit is de webpagine voor alle belangrijke informatie die nodig is voor het spelen in stad Columbus. Aan de linker kant kan je alle info vinden.
+Dit is de webpagine voor alle belangrijke informatie die nodig is voor het spelen in de stad Columbus. Aan de linker kant kan je alle info vinden.
 
 Lees voor dat je de stad in gaat goed alle APV regels door voor optimaal speel plezier!
 Alle straffen voor misdrijven zijn te vinden in ons wetboek. Wij wensen iedereen een fijne speel ervaring.

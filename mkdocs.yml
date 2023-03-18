@@ -1,3 +1,44 @@
-site_name: My Docs
-theme:
+site_name: Columbus wetboek en regels
+site_author: Fabio
+
+copyright: Copyright © 2023 Columbus Roleplay
+
+theme: 
   name: material
+  palette: 
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  logo: img/Columbus_logo.webp
+  favicon: img/Columbus_logo.webp
+  language: nl
+  icon:
+    admonition:
+      info: octicons/info-16
+  features:
+    - content.tooltips
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+
+nav:
+  - Home: index.md
+  - APV: apv.md
+  - Wetboek: wetboek.md
+  - Voertuigen: voertuigen.md
+  - Kosten:
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md

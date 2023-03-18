@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Columbus regelement en overige zaken
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Dit is de webpagine voor alle belangrijke informatie die nodig is voor het spelen in stad Columbus. Aan de linker kant kan je alle info vinden.
 
-## Commands
+### Finnos had iets als het goed was.....
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Discord servers van Columbus roleplay
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Server | Beschrijving | Invite link |
+|---|---|---|
+| Columbus Roleplay | Dit is onze main discord | [Invite link](https://discord.gg/sJNaP8PWdb) |
+| Columbus Support | Dit is onze support discord | [Invite link](https://discord.gg/HhBEJHWfUH) |
+| Columbus Onderwereld | Dit is onze onderwereld discord | [Invite link](https://discord.gg/CZ3BQ5mNzm)|

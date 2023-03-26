@@ -18,8 +18,6 @@ De ambulance staat dagelijks klaar voor al uw verwondinge. Zonder een goede verz
 | Rit naar ziekenhuis | € 500 |
 | Vervoer Traumaheli | € 5000 |
 
-## Overige zooi?
-
 ??? info 
     
     Deze prijzen kunnen te allen tijde veranderd worden. Houdt dit dus goed in de gaten.

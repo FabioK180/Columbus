@@ -36,7 +36,9 @@ In de stad Columbus houden we ons aan diverse voertuig regels. Hieronder staat e
 * Jeep Cherokee
 * Jeep Gladiator
 * Jeep Wrangler
+* Mercedes X classe
 * Nissan Patrol
 * Rebel Raid
+* Sanchez
 * Toyota LX V8
 * Volkswagen Amarok

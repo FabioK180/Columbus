@@ -91,7 +91,7 @@ Voorbeelden hiervan zijn:
 1. Hij/zij die met opzet roleplays van andere spelers verstoord zal gestraft worden met een straf volgens categorie 2.
     * Wanneer de speler na deze waarschuwing meteen weer begint met het verstoren van een roleplay, wordt hij/zij gestraft worden volgens categorie 2.
 2. Hij/zij die met opzet een voertuig op garage cirkels of andere cirkels zet, wordt gestraft volgens categorie 1.
-3. Hij/zij die niet wil meewerken met een huiszoeking, zal gestraft worden volgens categorie 2.
+3. Hij/zij die niet wil meewerken met een huiszoeking, zal gestraft worden volgens een safe ban (categorie 6).
 4. Het verstoren van een RP waarbij de ambulance bij betrokken is, is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
 
 ### 3.7 - Combat loggen
@@ -117,7 +117,7 @@ Voorbeelden hiervan zijn:
 
 ### 3.10 - No value of life
 1. Je dient altijd je leven te waarderen en te spelen alsof gewond raken of dood gaan echt het einde van je leven betekent. Beeld je in hoe jij hier in het echt op zou reageren. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens categorie 2. Enkele voorbeelden:
-    * Zodra iemand een pistool op je richt binnen 20 stappen en je niet achter beschutting staat, blijf je staan, werk je mee en val je deze persoon niet aan.
+    * Zodra iemand een pistool op je richt binnen 20 stappen en je niet achter beschutting staat, blijf je staan, werk je mee en val je deze persoon niet aan. Ook in groeps verband blijf je staan. Er is een wapen in het spel en de speler is zijn leven dierbaar.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren. (Je bent verplicht eerst te landen en dan pas in of uit te stappen.)
     * Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.

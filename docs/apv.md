@@ -54,7 +54,7 @@ Voorbeelden hiervan zijn:
     * Het gebruiken van /carry op een onrealistische manier.
     * Het controleren/bestelen van kofferbakken zonder enige aanleiding.
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me.
-    * Het gebruik maken van de warmtecamera door meerdere dikke muren/vloeren. Denk hierbij aan de rode garage of tunnels. Ook kan de camera maar tot een diepte van  .Hier kan de warmtecamera niet doorheen kijken.
+    * Het gebruik maken van de warmtecamera door meerdere dikke muren/vloeren. Denk hierbij aan de rode garage of tunnels. Ook kan de camera maar tot een diepte van 75 meter kijken. Hier kan de warmtecamera niet doorheen kijken.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Je voertuig gestolen melden bij een agent terwijl die niet het geval is.
 
@@ -72,6 +72,7 @@ Voorbeelden hiervan zijn:
 ### 3.3 - F6-menu
 1. Het is niet toegestaan spelers zomaar te fouilleren. Wordt hier overduidelijk misbruik van gemaakt, zal de persoon gestraft worden volgens categorie 1.
     * Er dient ten alle tijden bij het fouilleren een wapen in het spel te zijn door de speler die fouilleert of door de groep waar deze speler bij hoort.
+    * Je dient ten alle tijden bij het fouilleren achter de desbetreffende speler te staan.
 2. Het is niet toegestaan te rennen met iemand die je mee neemt. Er moet op een normaal tempo gelopen worden. Hij/zij die dit niet doet, zal gestraft worden volgens categorie 1.
 3. Het is niet toegestaan de fouilleer functie te gebruiken om grotere aantallen van een item op zak te hebben dan het toegestane limiet. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. Met uitzondering van overschrijding van limiet door overvallen en rip acties.
 
@@ -84,10 +85,10 @@ Voorbeelden hiervan zijn:
 3. Om een overval scenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen.
 4. Het is niet toegestaan iemand te identificeren door middel van Steam of Discord naam.
 5. Het is niet toegestaan rollen die gegeven zijn in een Discord te gebruiken als informatie in de stad.
-6. Alle regels, die vermeld staan hierboven, zullen minimaal gestraft worden met een straf volgens categorie 1.
+6. Alle regels, die vermeld staan hierboven, zullen minimaal gestraft worden met een straf volgens categorie 3.
 
 ### 3.6 - RP verstorend gedrag
-1. Hij/zij die met opzet roleplays van andere spelers verstoord zal gestraft worden met een straf volgens categorie 1.
+1. Hij/zij die met opzet roleplays van andere spelers verstoord zal gestraft worden met een straf volgens categorie 2.
     * Wanneer de speler na deze waarschuwing meteen weer begint met het verstoren van een roleplay, wordt hij/zij gestraft worden volgens categorie 2.
 2. Hij/zij die met opzet een voertuig op garage cirkels of andere cirkels zet, wordt gestraft volgens categorie 1.
 3. Hij/zij die niet wil meewerken met een huiszoeking, zal gestraft worden volgens categorie 2.

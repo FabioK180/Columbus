@@ -12,21 +12,20 @@ In de stad Columbus houden we ons aan diverse voertuig regels. Hieronder staat e
 
 * Alfa Romeo Stelvio
 * Audi Q8
-* Audi RSQ8
-* BMW X5M Competition
-* Brabus G800
-* Citroën DS7"
+* Audi RSQ 8
+* Citroën DS7
 * Ford Kuga
 * Jeep Cherokee Trackhawk
 * Lamborghini Urus
 * Maserati Levante
 * Nissan Qashqai
-* Range Rover Vogue
 * Volkswagen Touareg R50
-* Volvo XC90
+* Volvo XC90 T8
 
 ## Offroad
 
+* BMW X5M Competition
+* Brabus G800
 * Chevrolet Colorado
 * Chevrolet Silverado
 * Ford F150
@@ -36,9 +35,24 @@ In de stad Columbus houden we ons aan diverse voertuig regels. Hieronder staat e
 * Jeep Cherokee
 * Jeep Gladiator
 * Jeep Wrangler
+* Mercedes AMG G65
 * Mercedes X classe
 * Nissan Patrol
+* Range Rover Vogue
 * Rebel Raid
 * Sanchez
 * Toyota LX V8
 * Volkswagen Amarok
+
+## Overheid
+
+### Politie
+* Volvo XC90
+* Amarok
+* Range rover
+* Motor Offroad
+* Unmarkt BMW
+
+### ANWB & Ambulance
+
+* Amarok

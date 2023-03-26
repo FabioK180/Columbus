@@ -130,9 +130,9 @@ Voorbeelden hiervan zijn:
 
 ### 3.11 - New Life Rule
 1. Indien uw karakter dood is gegaan wordt er verwacht dat hij/zij de laatste roleplay vergeet. Houdt de speler zich hier niet aan, zal hij/zij gestraft worden volgens categorie 1.
-    * Dit houdt ook in dat wanneer iemand dood is gegaan hij/zij niet meer mag deelnemen aan dit scenario.
+    * Dit houdt ook in dat wanneer iemand dood is gegaan hij/zij niet meer mag deelnemen aan hetzelfde scenario.
     * Het is ook niet zo dat wanneer de speler weer levend is en hij/zij informatie krijgt van andere spelers over wat er is gebeurd, hij/zij mag deelnemen aan dit scenario. Je bent compleet vergeten wie je heeft vermoord en wat er allemaal bij gebeurd is. Je start weer opnieuw met alles. Wraakacties mogen daarom ook niet door jou uitgevoerd worden.
-    * Het is, nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
+    * Het is, nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 30 min niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
     * Het verschil tussen punt 2 en 3 is als volgt, heeft een groepering de speler gedood, geldt punt 3. Is dit gedaan door 1 persoon dan geldt punt 2.
 
 ### 3.12 - Green zones
@@ -161,6 +161,7 @@ Voorbeelden hiervan zijn:
         * Dus pitten mag met gelijke carrosserieën of als je voertuig zwaarder is dan het andere voertuig. (tweewielers weggelaten)
 4. Hij/zij die zich niet kan houden aan de bovenstaande regel, zal bestraft worden volgens categorie 1.
 5. Brake checken is toegestaan indien dit realistisch blijft. Wordt dit niet realistisch gedaan, kan dit leiden tot een straf. Wanneer jij iemand brake checkt, is dit op eigen risico. Ga jij hierdoor dood, is er geen mogelijkheid tot refund.
+6. Het is niet toegestaan wanneer de speler aan het rijden is, een andere speler van de motor af te trappen.
 
 ### 3.15 - RDM
 1. Hij/zij die zonder geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens categorie 2.
@@ -174,7 +175,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 4. De bovenstaande overtredingen zullen bestraft worden volgens categorie 1.
 
 ### 3.17 - Gedrag tegen overheidsmedewerkers
-1. Het is ten strengste verboden om een ambulancemedewerker te vermoorden, beledigen of niet mee te werken met de roleplay van een ambulancier.
+1. Het is ten strengste verboden om een overheidsmedewerker (met uitzondering van politie) te vermoorden, ontvoeren of niet mee te werken met de roleplay van de overheidsmedewerker. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
     * Roleplay met de ambulance moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulanciers niet forceren om spelers te reviven. Ambulancemedewerker hebben te allen tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
 2. Hetzelfde geldt voor de ANWB. Dit moet zo realistisch en uitgebreid mogelijk. ANWB medewerkers zijn ten allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren. Alle bovenstaande punten zullen bestraft worden volgens categorie 1.
@@ -189,7 +190,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * De speler aan het tanken is.
     * De speler aan het repareren is.
 2. Hij/zij die het in een van deze gevallen wel doet, zal bestraft worden volgens categorie 1. 
-3. Het is ten strengste verboden een overheidsvoertuig te stelen. Hij/zij die zich hier wel aan schuldig maakt, zal worden gestraft volgens categorie 1.
+3. Het is ten strengste verboden een voertuig van taxi, ANWB en ambulance te stelen. Hij/zij die zich hier wel aan schuldig maakt, zal worden gestraft volgens categorie 1.
     * Dit geldt ook voor burgers uit de overheid die uit dienst zijn.
 
 ### 3.20 - Bodycam
@@ -253,23 +254,24 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * We adviseren je te clippen vanaf het zien van het wapen tot aan het rippen van het wapen voor eventueel bewijs, mocht dit nodig zijn.
 2. Het is niet toegestaan iemand te overvallen met een knuppel of gebroken glas. Dit mag alleen gedaan worden met een steek- of vuurwapen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
 3. Het is niet toegestaan iemand te overvallen wanneer er op F10 te zien is dat er minder dan 2 agenten in dienst zijn. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
-2. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
+4. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld.
-    * Spelers te overvallen, te ontvoeren of negatief te behandelen bij het gemeentehuis/uitzendbureau.
+    * Spelers te overvallen, te ontvoeren of negatief te behandelen bij het beginpunt/uitzendbureau.
     * Facturen en/of andere items die gerelateerd zijn aan een baan.
     * Voorwerpen van de overheidsbanen.
     * Onder dwang iemand zijn huis betreden en dan leegroven.
     * Legale goederen (brood, water, repair kits etc.)
     * Kofferbak mag ten alle tijden niet beroofd worden.
-3. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
+    * Kofferbak mag ten alle tijden niet beroofd worden.
+5. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
     * Voertuigen 
-    * Het stelen/overvallen van witgeld.
     * Meer dan 100.000 euro witgeld
-4. De bescherming tegen oplichting zoals genoemd in punt 2 & 3 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op moment van verkoop.
+    * Huizen
+6. De bescherming tegen oplichting zoals genoemd in punt 4 & 5 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op moment van verkoop.
     * Dit wil dus zeggen dat je niet wordt beschermd bij een lening. Dit is op eigen risico. Op voertuigen mag je op geen enkele manier oplichten
-5. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
+7. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
     * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 7. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
-6. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
+8. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
 
 ### 4.3 - Gebruik zware wapens
 1. Het is pas toegestaan een zwaar wapen te gebruiken wanneer er minimaal vijf agenten in dienst zijn. Onder zware wapens verstaan we:
@@ -339,14 +341,11 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 ### 4.13 - Gangs
 1. Officiële gangs mogen een maximaal ledenaantal hebben die bij hun rang van toepassing is. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang. Wordt hier geen gehoor aan gegeven, zal de baas gestraft worden volgens categorie 1. Hierbij zal dan ook het overschot aan leden weg moeten.
     * Met "hangaround" worden de mensen bedoeld die nog niet officieel bij de gang zitten. Deze beschikken dus niet over een f6-menu.
-2. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficiële organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken. Wanneer de groepen zich hier niet aan houden zal de baas gestraft worden met een straf volgens categorie 4.
-    * Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat.
-3. Bij herhaling van het overtreden of niet nakomen van punt 2 zal naast een straf volgens categorie 5 ook een gang strike uitgedeeld worden.
-4. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
-5. Het is verboden om valse meldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
+2. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
+3. Het is verboden om valse meldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
     * Dit geldt ook voor loodsen. Het is dus niet toegestaan een neppe melding te maken bij een loods.
-6. Het afnemen van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden.
-7. Wanneer de leden in een gang zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de gang coördinator zelf een gepaste straf geven. Dit kan zelfs leiden tot een volledige opschorting van de groep. 
+4. Het afnemen van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden.
+5. Wanneer de leden in een gang zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de gang coördinator zelf een gepaste straf geven. Dit kan zelfs leiden tot een volledige opschorting van de groep. 
     * Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
 
 ### 4.14 - Gang war

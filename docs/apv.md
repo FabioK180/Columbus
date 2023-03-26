@@ -7,24 +7,23 @@
 1. Wanneer er een verandering plaatsvindt in de APV en de straf is begaan voor de verandering van de APV dan, zal de persoon in kwestie bestraft worden met de soepelste sanctie.
 2. Wanneer er gelogen wordt tegen staff en dit kan aangetoond worden, dan kan er gekozen worden de straf te verzwaren.
 3. Het is voor iemand die werkzaam is in ons staff team, niet toegestaan mee te beslissen over een zaak waar hijzelf of vrienden/familie bij betrokken zijn geweest. Dit om te voorkomen dat een zaak op een oneerlijke manier behandeld wordt.
+4. Wanneer er onvoldoende bewijsmateriaal is van bijvoorbeeld clips, kan er door een staff lid bepaald worden geen actie te ondernemen voor refunds of straffen.
 
 ### 1.2 - Strafbepaling
 1. In Columbus gaan wij te werk met verschillende categorieën aan straffen.
-    * Categorie 1: Kick.
+    * Categorie 1: Waarschuwing + Kick
         * Wanneer iemand schuldig is aan 3 waarschuwingen in 1 maand zal er een straf opgelegd worden uit categorie 3.
-    * Categorie 2: een ban van 1 uur.
-    * Categorie 3: een ban van 1 dag.
-    * Categorie 4: een ban van 3 dagen.
-    * Categorie 5: een ban van 5 dagen.
-    * Categorie 6: een ban van 7 dagen.
+    * Categorie 2: een ban van 2 dagen
+    * Categorie 3: een ban van 4 dagen
+    * Categorie 4: een ban van 1 week
+    * Categorie 5: een ban van 1 maand
+    * Categorie 6: een perm ban
         * Deze straf kan preventief worden toegepast. Dit wil zeggen, dat wanneer iemand op heterdaad is betrapt bij het overtreden van een regel of iets bij zich heeft wat diegene niet bij zich hoort te hebben, deze straf toegepast kan worden. Deze straf zal dan in een ticket verder behandeld worden.
-    * Categorie 7: een ban van 1 maand
-    * Categorie 8: een permanente ban 
-        * Dit houdt in dat de speler geen recht meer heeft op een unban. Deze ban is door een managementlid besloten en kan niet meer worden herzien.
+    * Categorie 7: account wipe
 
 ### 1.3 - Aanvulling op strafbepaling
 1. Er kan door een stafflid gekozen worden om af te wijken van de aangegeven straffen. Dit wil zeggen dat een stafflid de keuze heeft om aan de hand van de situatie en de bewijzen te bepalen of hij de straf verzwaard/vermindert.
-2. Alle straffen, met uitzondering van categorie 8, mogen aangevochten worden door de desbetreffende speler.
+2. Alle straffen, met uitzondering van categorie 6, mogen aangevochten worden door de desbetreffende speler door middel van een ticket. Een categorie 6 ban zal via het unban formulier aangevraagd moeten worden.
 3. Bij een overtreding kan er voor gekozen worden in plaats van een schriftelijke waarschuwing een mondelinge waarschuwing uit te delen. Hierbij zal gecontroleerd worden of de speler de regels daadwerkelijk begrijpt. Afspraken die hierbij zijn gemaakt dienen nageleefd te worden. Indien iemand een mondelinge waarschuwing ontvangt, dient dit bij de notities opgeschreven te worden. Wordt dit niet genoteerd zal de waarschuwing niet geldig zijn.
 4. Het omzeilen van een straf zal resulteren in een zwaardere straf en een waarschuwing. Dit kan leiden tot een permanente ban.
 5. Wanneer iemand probeert "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel zal dit worden gestraft met categorie 4.
@@ -32,8 +31,8 @@
 ## 2. Exploits en cheats
 
 ### 2.1 - Cheats en graphics
-1. Hij/zij die gebruikmaakt van software/hulpmiddelen van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens categorie 8.
-2. Hij/zij die profijt haalt uit het krijgen van goederen zoals geld, items, enzovoort die verkregen zijn van een ander die hackt of andere slechte bedoelingen heeft en dit niet meldt bij een stafflid, zal gestraft worden volgens categorie 8.
+1. Hij/zij die gebruikmaakt van software/hulpmiddelen van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens categorie 6.
+2. Hij/zij die profijt haalt uit het krijgen van goederen zoals geld, items, enzovoort die verkregen zijn van een ander die hackt of andere slechte bedoelingen heeft en dit niet meldt bij een stafflid, zal gestraft worden volgens categorie 6.
 3. Het spelen met zodanige grafische settings dat hier een voordeel uit gehaald kan worden, is niet toegestaan. Hij/zij die dit doet, zal gestraft worden volgens categorie 2.
     * Bijvoorbeeld het spelen op een stretched resolutie.
 
@@ -55,8 +54,8 @@ Voorbeelden hiervan zijn:
     * Het gebruiken van /carry op een onrealistische manier.
     * Het controleren/bestelen van kofferbakken zonder enige aanleiding.
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me.
-    * Het gebruik maken van de warmtecamera door muren heen. Met een warmtecamera kan je NIET door muren heen kijken
-    * en agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
+    * Het gebruik maken van de warmtecamera door meerdere dikke muren/vloeren. Denk hierbij aan de rode garage of tunnels. Ook kan de camera maar tot een diepte van  .Hier kan de warmtecamera niet doorheen kijken.
+    * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Je voertuig gestolen melden bij een agent terwijl die niet het geval is.
 
 ### 3.2 - Powergaming
@@ -368,8 +367,8 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 3. De speler is verplicht ten alle tijden de RP aan te gaan met de politie. Dit kan door de agent te handsuppen om de arrestant vrij te laten en dus niet de agent te doden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
     * Handsuppen mag pas gedaan worden wanneer er met zekerheid gezegd kan worden dat de arrestant een zware straf zal krijgen.
 
-### 4.16  Drugs verkopen en drugs locaties 
-1. Een drugsverkoper overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
+### 4.16  Witwassen
+1. Een witwasser overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
     * Hij/zij beschermende kleding zoals een body armor draagt.
     * Gezichtsbedekking op heeft tijdens het verkopen.
     * Een overduidelijke escort heeft.
@@ -377,15 +376,20 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijdt
         * Zoals: alleen toeteren bij een afleverpunt.
 2. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
-3. Een drugsverkoper herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
-4. Iemand die in een drugsverkoop voertuig rijdt met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder meta.
+3. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
+4. Iemand die in een witwas voertuig rijdt met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder meta.
 5. Alle bovenstaande punten zullen bestraft worden volgens categorie 2.
 6. Het campen/opwachten op de drugsverkoop locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
 7. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal het scenario ongeldig verklaard worden en gaat het geld terug naar de rechtvaardige eigenaar.
 8. Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
 9. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
 
-### 4.17 - Illegale activiteiten op Twitter
+### 4.17 Locaties
+1. Het campen/opwachten op de witwas locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
+2. Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+3. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
+
+### 4.18 - Illegale activiteiten op Twitter
 1. Het is niet toegestaan om illegale activiteiten te bespreken op Twitter. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
     * Onder illegale activiteiten wordt onder andere verstaan, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.
 

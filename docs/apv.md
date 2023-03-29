@@ -11,7 +11,7 @@
 
 ### 1.2 - Strafbepaling
 1. In Columbus gaan wij te werk met verschillende categorieën aan straffen.
-    * Categorie 1: Waarschuwing + Kick
+    * Categorie 1: Waarschuwing + 10 maanden (De speler heeft het recht eerst zijn/haar spullen weg te leggen.)
         * Wanneer iemand schuldig is aan 3 waarschuwingen in 1 maand zal er een straf opgelegd worden uit categorie 3.
     * Categorie 2: een ban van 2 dagen
     * Categorie 3: een ban van 4 dagen
@@ -20,6 +20,7 @@
     * Categorie 6: een perm ban
         * Deze straf kan preventief worden toegepast. Dit wil zeggen, dat wanneer iemand op heterdaad is betrapt bij het overtreden van een regel of iets bij zich heeft wat diegene niet bij zich hoort te hebben, deze straf toegepast kan worden. Deze straf zal dan in een ticket verder behandeld worden.
     * Categorie 7: account wipe
+2. Een stafflid zal ten alle tijden eerst naar de speler toe gaan om uitleg te geven over de straf. Wordt dit niet gedaan, dan kan het desbetreffende stafflid een staffwarn kunnen krijgen.
 
 ### 1.3 - Aanvulling op strafbepaling
 1. Er kan door een stafflid gekozen worden om af te wijken van de aangegeven straffen. Dit wil zeggen dat een stafflid de keuze heeft om aan de hand van de situatie en de bewijzen te bepalen of hij de straf verzwaard/vermindert.
@@ -261,7 +262,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * Voorwerpen van de overheidsbanen.
     * Onder dwang iemand zijn huis betreden en dan leegroven.
     * Legale goederen (brood, water, repair kits etc.)
-    * Kofferbak mag ten alle tijden niet beroofd worden.
+        * Een uitzondering hier op is een porto. Deze mag wel afgenomen worden.
     * Kofferbak mag ten alle tijden niet beroofd worden.
 5. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
     * Voertuigen 
@@ -299,14 +300,14 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.7 - Regels met betrekking tot een overval
 1. Het is ten strengste verboden een overval te doen zonder enige vorm van RP tussen de speler en de politie. Dit wordt “hit and run” genoemd. Hij/zij die dit doet zal gestraft worden volgens categorie 1 + buit en wapen inleveren.
-    * Uitzondering hierop zijn alle heists zoals de humane labs overval, treinoverval etc. Die mag wel met een “hit and run” gedaan worden.
+    * Uitzondering hierop zijn alle heists zoals treinoverval. Die mag wel met een “hit and run” gedaan worden.
 2. Een hostage mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn. Dit staat ook wel bekend als ‘’friendly hostage’’. Hij/zij die zich hieraan schuldig maakt, zal gestraft worden volgens categorie 3.
 3. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie. Hij/zij die zich hieraan schuldig maakt, zal gestraft worden volgens categorie 1.
 4. Het is niet toegestaan een overval van welke soort dan ook te starten binnen een half uur voor de restart. Hij/zij die zich hieraan schuldig maakt, zal gestraft worden volgens categorie 1 + mogelijke buit inleveren.
 5. Het is niet toegestaan tijdens een achtervolging je voertuig in een garage te stoppen en vervolgens een andere hiervoor in de plaats te pakken. Dit is pas toegestaan wanneer de speler tien minuten lang niemand meer achter zich aan heeft. Hij/zij die zich hier niet aan houdt, zal bestraft worden volgens categorie 1. Dit geldt voor zowel ambtenaren als burgers.
     * Hetzelfde geldt voor appartementen of andere gebouwen waar de speler niet meer zichtbaar is voor de rest van de spelers.
 6. Politie heeft het recht binnen te vallen. Dit moet echter gedaan worden wanneer zij zeker weten de levens van de gegijzelde te redden. Wanneer dit niet het geval is, zit de politie in de fout. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
-    * Dit geldt niet voor slagwapens zoals een knuppel. Hier mag politie ten allen tijde bij binnenvallen. Omdat dit  vaak geen zwaar letsel kan veroorzaken aan een hostage. Overigens zal dit niet altijd gedaan worden door de politie.
+    * Dit geldt niet voor slagwapens zoals een knuppel en ook niet voor een gebroken fles. Hier mag politie ten allen tijde bij binnenvallen. Omdat dit  vaak geen zwaar letsel kan veroorzaken aan een hostage. Overigens zal dit niet altijd gedaan worden door de politie.
 7. Het is niet toegestaan om een outside shooter te hebben wanneer er minder dan 5 agenten in dienst zijn. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1 en wordt het wapen, die de outside shooter op zak heeft, ingenomen. 
     * 5 agenten mag er 1 outsider zijn
     * 6 agenten mogen er 2 outsiders zijn
@@ -325,7 +326,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.10 - Ontvoeren burgers
 1. Een ontvoering dient ten alle tijden realistisch te verlopen. Het is daarom niet toegestaan iemand te ontvoeren op een motor of in een 3-deurs auto. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
-2. Een persoon mag je maximaal 90 minuten ontvoeren/vas.
+2. Een persoon mag je maximaal 90 minuten ontvoeren/vast houden.
 
 ### 4.11 - Bounty hunter
 1. Bounty hunters zijn toegestaan mits hieraan goede RP is verbonden. Een voorbeeld hiervan: Je ontvoert diegene eerst, neemt hem mee naar een locatie en executeert diegene daar. Het is ten allen tijde verplicht de reden voor het moorden te melden bij het slachtoffer.
@@ -334,7 +335,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.12 - Body looten
 1. Het is niet toegestaan een speler af te fouilleren die overleden is. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1 en het inleveren van de afgenomen spullen.
-2. De politie hebben een uitzondering op deze regel. Zij mogen dit wel.
+    * De politie hebben een uitzondering op deze regel. Zij mogen dit wel.
 3. Het is niet toegestaan iemand van de Politie te dwingen een wapen af te fouilleren van iemand om die zo dan weer te overvallen.
     * Het is wel toegestaan wanneer een politieagent het wapen fouilleert deze dan te gaan overvallen.
 
@@ -344,8 +345,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 2. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
 3. Het is verboden om valse meldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
     * Dit geldt ook voor loodsen. Het is dus niet toegestaan een neppe melding te maken bij een loods.
-4. Het afnemen van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden.
-5. Wanneer de leden in een gang zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de gang coördinator zelf een gepaste straf geven. Dit kan zelfs leiden tot een volledige opschorting van de groep. 
+4. Wanneer de leden in een gang zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de gang coördinator zelf een gepaste straf geven. Dit kan zelfs leiden tot een volledige opschorting van de groep. 
     * Dit geldt ook als een gang een van de bovenstaande punten te vaak overtreedt.
 
 ### 4.14 - Gang war
@@ -357,32 +357,27 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 2. Er kan voor gekozen worden andere eisen te stellen aan het aflopen van een gangwar. Dit moet ten alle tijden door besproken worden via een ticket met de gang coördinatoren.
 3. Tijdens een officiële gangwar is het niet toegestaan dat ally gangs elkaar helpen.
 4. Wanneer een speler gedood is door de tegenstander mag hij/zij niet meer deelnemen aan de gang war. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
-5. Er is bij een gang war geen reden tot doden. Probeer ten alle tijden zoveel mogelijk de RP aan te gaan.
-6. Het is niet toegestaan tijdens een gang war dezelfde persoon over en over te doden. Wanneer de speler dood is gemaakt weet de speler niks meer van de war en hoeft diegene niet meer dood gemaakt te worden. Gebeurt dit een keer, is dit geen probleem. Wordt dit vaker gedaan, zal hij/zij gestraft worden volgens categorie 1.
-7. Het is ten strengste verboden misbruik te maken van het gang war principe. Wordt er door de gang coördinatoren opgemerkt dat dit gebeurd, zal de leider van de groep gestraft worden volgens categorie 1 en kunnen de gang coördinatoren eventuele verdere straffen uitdelen.
+5. Het is niet toegestaan tijdens een gang war dezelfde persoon over en over te doden. Wanneer de speler dood is gemaakt weet de speler niks meer van de war en hoeft diegene niet meer dood gemaakt te worden. Gebeurt dit een keer, is dit geen probleem. Wordt dit vaker gedaan, zal hij/zij gestraft worden volgens categorie 1.
+6. Het is ten strengste verboden misbruik te maken van het gang war principe. Wordt er door de gang coördinatoren opgemerkt dat dit gebeurd, zal de leider van de groep gestraft worden volgens categorie 1 en kunnen de gang coördinatoren eventuele verdere straffen uitdelen.
 
 ### 4.15 - Doden van agenten
 1. Het is niet toegestaan zonder geldige reden een agent dood te schieten. De reden: “het is een agent.” is dus geen geldige reden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
 2. Het doodschieten van een agent omdat een vriend wordt aangehouden voor een simpele overtreding is niet toegestaan.
 3. De speler is verplicht ten alle tijden de RP aan te gaan met de politie. Dit kan door de agent te handsuppen om de arrestant vrij te laten en dus niet de agent te doden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
     * Handsuppen mag pas gedaan worden wanneer er met zekerheid gezegd kan worden dat de arrestant een zware straf zal krijgen.
+4. Het dood schieten van een agent omdat de speler celstraf heeft gekregen van deze agent is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
 
 ### 4.16  Witwassen
 1. Een witwasser overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
     * Hij/zij beschermende kleding zoals een body armor draagt.
-    * Gezichtsbedekking op heeft tijdens het verkopen.
+    * Gezichtsbedekking op heeft tijdens het witwassen.
     * Een overduidelijke escort heeft.
         * Zoals: Een voertuig die er overduidelijk achteraan rijdt, meerdere personen die in het voertuig zitten zonder de goede handelingen uit te voeren of niet de correcte kleding aan hebben.
-    * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijdt
-        * Zoals: alleen toeteren bij een afleverpunt.
 2. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 3. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
 4. Iemand die in een witwas voertuig rijdt met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder meta.
 5. Alle bovenstaande punten zullen bestraft worden volgens categorie 2.
-6. Het campen/opwachten op de drugsverkoop locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
 7. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal het scenario ongeldig verklaard worden en gaat het geld terug naar de rechtvaardige eigenaar.
-8. Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-9. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
 
 ### 4.17 Locaties
 1. Het campen/opwachten op de witwas locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
@@ -392,11 +387,16 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 ### 4.18 - Illegale activiteiten op Twitter
 1. Het is niet toegestaan om illegale activiteiten te bespreken op Twitter. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
     * Onder illegale activiteiten wordt onder andere verstaan, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.
+2. Het is niet toegestaan schuilnamen te gebruiken voor illegale activiteiten. Denk hierbij aan "Kleding wassen" en "Snoepjes fabriek" etc. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
+
+### 4.19 - Take Hostage
+1. Het is niet toegestaan iemand met /th te hostagen wanneer de speler nog geen wapen heeft getrokken. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1 en zal het gebruikte wapen ingenomen worden.
+    * De speler moet een wapen vast houden om iemand met /th te kunnen pakken.
 
 ## 5. Overheidsmedewerkers
 
 ### 5.1 - corruptie
-1. Het is niet toegestaan enige vorm van corruptie uit te voeren als overheidsmedewerker in- en uit dienst. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 7 en een ontslag op staande voet. De hulpdiensten coördinatoren kunnen hier aanvullende straffen voor geven.
+1. Het is niet toegestaan enige vorm van corruptie uit te voeren als overheidsmedewerker in- en uit dienst. Hij/zij die dit wel doet, zal gestraft worden door middel van een RP scenario. Hierbij wordt de speler ontslagen op staande voet. De hulpdiensten coördinatoren kunnen hier aanvullende straffen voor geven.
     * Een uitzondering op deze regel is bij de ANWB en taxi. Deze mogen uit dienst wel criminele activiteiten doen.
 
 ### 5.2 - Ambulance
@@ -410,14 +410,16 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 6. De ambulance dient te vragen wat er is gebeurd aan de speler wanneer dit niet duidelijk wordt gemaakt door eventuele bijstanders. De speler hoort hier eerlijk antwoord op te geven via /me. Hij/zij die liegt over wat er is gebeurd zal gestraft worden volgens categorie 1. 
 
 ### 5.3 - ANWB
-1. Het is niet toegestaan om als ANWB-medewerkers in dienst criminele activiteiten te verrichten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2 en een ontslag op staande voet.
-    * Het is wel toegestaan wanneer de ANWB-medewerkers uit dienst is.
-2. Het is niet toegestaan als ANWB-medewerkers uit dienst voertuigen te repareren. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2.
+1. Het is niet toegestaan om als ANWB-medewerker in dienst criminele activiteiten te verrichten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2 en een ontslag op staande voet.
+    * Het is wel toegestaan wanneer de ANWB-medewerker uit dienst is.
+2. Het is niet toegestaan als ANWB-medewerker uit dienst voertuigen te repareren. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2.
 3. Een ANWB-medewerker die uit dienst gaat, dient voor 30 minuten zich niet bezig te houden met criminele activiteiten. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. 
     * Bij het vaker overtreden van deze regel kan er gekozen worden de speler te ontslaan.
+4. Het is niet toegestaan om als ANWB-medewerker voertuigen gratis te repareren. Hij/zij die dit wel doet, zal gestraft worden volgens 5.1 - corruptie.
 
 ### 5.4 - Politie
 1. Het is niet toegestaan de banden van een voertuig te taseren. De speler die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
+2. Het is niet toegestaan om op de banden van een voertuig te schieten die sneller gaat dan 120 km/h en het is ook niet toegestaan zomaar te schieten op een voertuig waarvan niet te bevestigen is of deze een vuurwapen in bezit heeft. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
 2. Het is niet toegestaan om als agent zomaar dodelijk vuur toe te passen. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
     * Tijdens de training zal er specifiek benoemd worden wanneer dit wel mag. Alles daarbuiten is dus niet toegestaan.
 3. Je dient ten alle tijden het leven van burgers te redden. Wat er ook gebeurt, je dient te handelen op een dusdanige manier dat je met grote zekerheid kan zeggen dat het leven van de burger gespaard wordt. Hij/zij die dit niet doet, zal gestraft worden volgens categorie 1.
@@ -433,27 +435,21 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 10. Het is niet toegestaan afgenomen spullen weg te leggen binnen 10 minuten na het afnemen van deze spullen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 
 ### 5.5 - Overheids items
-1. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan door te verkopen of te geven aan iemand die niet over deze baan beschikt. Hij/zij die wel doet, zal gestraft worden volgens corruptie.
+1. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan door te verkopen of te geven aan iemand die niet over deze baan beschikt. Hij/zij die wel doet, zal gestraft worden volgens 5.1 - corruptie.
 
-### 5.6 - Overheid Objecten
-1. Alle overheidsmedewerkers hebben een maximum aantal objecten die zij mogen gebruiken. Dit maximum zit vast aan een auto. Dit wil zeggen dat wanneer er 2 auto’s aanwezig zijn er dus 2 keer zoveel objecten gebruikt mogen worden. Een motor telt hier dus niet bij. Onder objecten worden de volgende dingen bedoeld:
-    * Afzet borden - Hier mogen er 3 van worden gebruikt.
-    * verkeerspionnen - Hier mogen er 5 van gebruikt worden.
-2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
-
-### 5.7 - Gedrag als overheidsmedewerker
+### 5.6 - Gedrag als overheidsmedewerker
 1. Wanneer de speler in dienst is bij een van de overheidsbanen dient deze ten alle tijden professioneel te gedragen.
     * De speler gaat dus niet spelers uitlokken tot fout gedrag of bedreigen. Dit is simpelweg een voorbeeld. Er vallen nog veel meer dingen hieronder.
 2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1 en krijgt ontslag op staande voet.
 
-### 5.8 - Misbruik maken van overheidsbaan
+### 5.7 - Misbruik maken van overheidsbaan
 1. Het is ten strengste verboden als overheidsmedewerker misbruik te maken van het beroep dat je uitvoert. Enkele voorbeelden hiervan zijn:
     * Het geven van een politiewapen zodat een speler gratis kogels krijgt.
     * Het reviven van vrienden die niet meer te redden zijn.
     * Het optreden als advocaat bij een misdrijf van vrienden en/of waar je zelf bij betrokken bent geweest.
 2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 
-### 5.9 - Beroepskleding
+### 5.8 - Beroepskleding
 1. Er wordt verwacht dat de speler ten aller tijden de kleding draagt die voorzien is door uw werkgever tijdens het uitvoeren van uw baan. Wordt dit niet gedaan, zal de speler gestraft worden volgens categorie 2.
 2. Hij/zij die niet over een overheidsbaan beschikt, maar wel overheids kleding draagt, zal bestraft worden volgens categorie 2.
 3. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan of verwijzen naar de Politie. Hetzelfde geldt voor tassen en andere accessoires.
@@ -463,6 +459,9 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
         * ANWB
         * Advocaten (Justitie)
         * Taxi
+
+### 5.9 - Money farmen
+1. Het is niet toegestaan als overheidsmedewerker stil te staan om zo geld te verdienen zonder iets te doen. Dit wordt ook wel "money farmen" genoemd. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1 en zal het geld wat hiermee is verdiend moeten inleveren.
 
 ## 6. Overige regels
 
@@ -488,9 +487,10 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 1. Het is ten alle tijden verboden geweld te gebruiken of welke vorm dan ook tegen een andere speler in taak- of celstraf. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
 
 ### 6.5 - Cooldown
-1. Het is verplicht een cooldown aan te vragen van 3 dagen wanneer de speler van overheidsbaan naar de criminaliteit gaat. De speler mag dan 3 dagen lang geen criminele activiteiten verrichten.
-2. Het is verplicht een cooldown aan te vragen van 3 dagen wanneer de speler van de criminaliteit naar de overheidsbaan gaat. De speler mag voor deze 3 dagen wel al gesolliciteerd hebben, maar mag pas officieel deelnemen aan dit beroep wanneer hij/zij een 3 dagen cooldown heeft gehad.
-3. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 3. Dit staat dan gelijk aan de cooldown + een dag.
+1. Het is verplicht een cooldown aan te vragen van 24 uur wanneer de speler van overheidsbaan naar crimineel gaat en vica versa. Dit geldt ook wanneer de speler van overheidsinstantie wisselt.
+    * De cooldown gaat pas in wanneer er een door een hulpdienst coördinator de cooldown is toegepast.
+2. De speler met een cooldown mag in deze 24 uur geen criminele activitetien en geen rollen hebben voor een overheidsinstanties. De speler die zich hier niet aan houdt, zal een cooldown krijgen van 3 dagen.
+    * Houdt de speler in deze 3 dagen zichzelf er nog steeds niet aan, zal hij/zij een ban krijgen van 3 dagen.
 
 ### 6.6 - IRL Trade
 1. Het verhandelen van items, valuta, diensten of accounts voor echt geld is verboden en zal worden bestraft met een straf volgens categorie 6.
@@ -520,6 +520,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 6.12 - Les voertuigen
 1. Het is ten strengste verboden voertuigen die verkregen zijn van CBR of andere les instellingen te gebruiken op een wijze waar ze niet voor bedoeld zijn. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
+2. Hij/zij die met opzet een les voertuig beukt of irriteerd, zal gestraft worden volgens categorie 1.
 
 ### 6.13 - Standaard outfit
 1. Het dragen van de standaard outfit, kaal met een Just Do It outfit, is niet toegestaan. Je bent verplicht een volledige outfit te maken waarin alle onderdelen realistisch zijn. Het is dus niet toegestaan rond te lopen zonder armen of benen.
@@ -529,7 +530,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 1. Het is niet toegestaan om in een Discord te zitten waar jij niet bij hoort. Een overheidsmedewerker zit dus niet in de onderwereld Discord en een crimineel zit niet in de overheids Discord. Met uitzondering van ANWB, taxi en Staff.
 
 ### 6.15 - Belediging
-1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal categorie 6 en minimale ban van 2 weken.
+1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een minimale straf van categorie 4  en een straf van maximaal categorie 6.
     * Dit geldt ook op Discord-, Steam- en Character namen
 
 ### 6.16 - Streamsnipen

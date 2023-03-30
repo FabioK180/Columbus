@@ -4,7 +4,6 @@ In de stad Columbus houden we ons aan diverse voertuig regels. Hieronder staat e
 
 | Weg | Omschrijving |
 |---|---|
-| Verharde weg | Een weg die uit asfalt bestaat |
 | Onverharde weg | Een weg die bestaat uit zand of een ander onverhard materiaal |
 | Off-Road | Er is geen zichtbare weg te zien. |
 

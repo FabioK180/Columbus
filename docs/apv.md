@@ -55,7 +55,7 @@ Voorbeelden hiervan zijn:
     * Het gebruiken van /carry op een onrealistische manier.
     * Het controleren/bestelen van kofferbakken zonder enige aanleiding.
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me.
-    * Het gebruik maken van de warmtecamera door meerdere dikke muren/vloeren. Denk hierbij aan de rode garage of tunnels. Ook kan de camera maar tot een diepte van 75 meter kijken. Hier kan de warmtecamera niet doorheen kijken.
+    * Het gebruik maken van de warmte camera
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Je voertuig gestolen melden bij een agent terwijl die niet het geval is.
 
@@ -176,7 +176,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 4. De bovenstaande overtredingen zullen bestraft worden volgens categorie 1.
 
 ### 3.17 - Gedrag tegen overheidsmedewerkers
-1. Het is ten strengste verboden om een overheidsmedewerker (met uitzondering van politie) te vermoorden, ontvoeren of niet mee te werken met de roleplay van de overheidsmedewerker. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
+1. Het is ten strengste verboden om een overheidsmedewerker (met uitzondering van politie) te slaan, te vermoorden, te ontvoeren of niet mee te werken met de roleplay van de overheidsmedewerker. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
     * Roleplay met de ambulance moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulanciers niet forceren om spelers te reviven. Ambulancemedewerker hebben te allen tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
 2. Hetzelfde geldt voor de ANWB. Dit moet zo realistisch en uitgebreid mogelijk. ANWB medewerkers zijn ten allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren. Alle bovenstaande punten zullen bestraft worden volgens categorie 1.
@@ -243,6 +243,14 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 ### 3.27 - Factuur overheid vermijden
 1. Hij/zij die weg rijdt van een overheidsmedewerker zonder dat de medewerker een factuur heeft kunnen sturen, zal gestraft worden volgens categorie 1 en zal een boete opgelegd krijgen van 25% extra factuur kosten.
 
+### 3.28 - No fly zone
+1. Het is niet toegestaan op de volgende locaties te vliegen met een helikopter: lager dan 300 meter boven blokkenpark te vliegen met een helikopter.
+    * Politie HB
+    * Military base
+    * lager dan 300 meter boven blokkenpark
+2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+    * De politie heeft hier uitzondering op. Zij mogen lager vliegen dan deze hoogte.
+
 ## 4. Criminele activiteiten
 
 ### 4.1 - Groeien als crimineel
@@ -254,8 +262,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
     * We adviseren je te clippen vanaf het zien van het wapen tot aan het rippen van het wapen voor eventueel bewijs, mocht dit nodig zijn.
 2. Het is niet toegestaan iemand te overvallen met een knuppel of gebroken glas. Dit mag alleen gedaan worden met een steek- of vuurwapen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
-3. Het is niet toegestaan iemand te overvallen wanneer er op F10 te zien is dat er minder dan 2 agenten in dienst zijn. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
-4. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
+3. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld.
     * Spelers te overvallen, te ontvoeren of negatief te behandelen bij het beginpunt/uitzendbureau.
     * Facturen en/of andere items die gerelateerd zijn aan een baan.
@@ -264,15 +271,15 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * Legale goederen (brood, water, repair kits etc.)
         * Een uitzondering hier op is een porto. Deze mag wel afgenomen worden.
     * Kofferbak mag ten alle tijden niet beroofd worden.
-5. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
+4. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
     * Voertuigen 
     * Meer dan 100.000 euro witgeld
     * Huizen
-6. De bescherming tegen oplichting zoals genoemd in punt 4 & 5 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op moment van verkoop.
+5. De bescherming tegen oplichting zoals genoemd in punt 4 & 5 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op moment van verkoop.
     * Dit wil dus zeggen dat je niet wordt beschermd bij een lening. Dit is op eigen risico. Op voertuigen mag je op geen enkele manier oplichten
-7. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
+6. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
     * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 7. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
-8. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
+7. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
 
 ### 4.3 - Gebruik zware wapens
 1. Het is pas toegestaan een zwaar wapen te gebruiken wanneer er minimaal vijf agenten in dienst zijn. Onder zware wapens verstaan we:
@@ -308,10 +315,10 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Hetzelfde geldt voor appartementen of andere gebouwen waar de speler niet meer zichtbaar is voor de rest van de spelers.
 6. Politie heeft het recht binnen te vallen. Dit moet echter gedaan worden wanneer zij zeker weten de levens van de gegijzelde te redden. Wanneer dit niet het geval is, zit de politie in de fout. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
     * Dit geldt niet voor slagwapens zoals een knuppel en ook niet voor een gebroken fles. Hier mag politie ten allen tijde bij binnenvallen. Omdat dit  vaak geen zwaar letsel kan veroorzaken aan een hostage. Overigens zal dit niet altijd gedaan worden door de politie.
-7. Het is niet toegestaan om een outside shooter te hebben wanneer er minder dan 5 agenten in dienst zijn. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1 en wordt het wapen, die de outside shooter op zak heeft, ingenomen. 
-    * 5 agenten mag er 1 outsider zijn
-    * 6 agenten mogen er 2 outsiders zijn
-    * 6+ agenten mogen er 3 outsiders zijn
+7. Het is niet toegestaan om een outside shooter te hebben wanneer er minder dan 5 agenten in dienst zijn. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1 en wordem alle gebruikte wapens, die de outside shooters op zak hadden, ingenomen. 
+    * 5 agenten mag er 1 outside shooter zijn
+    * 6 agenten mogen er 2 outside shooters zijn
+    * 6+ agenten mogen er 3 outside shooters zijn
 8. Repeterende overval scenario's zijn niet toegestaan. Hiermee worden dezelfde ontsnappingsroute en RP scenario’s mee bedoeld: Hij/zij die dit wel doet zal, bestraft worden volgens categorie 1 + mogelijke buit inleveren. 
 9. Het is niet toegestaan meer dan 4 overvallen op 1 dag te doen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 

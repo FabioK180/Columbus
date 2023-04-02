@@ -35,7 +35,12 @@
 1. Hij/zij die gebruikmaakt van software/hulpmiddelen van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens categorie 6.
 2. Hij/zij die profijt haalt uit het krijgen van goederen zoals geld, items, enzovoort die verkregen zijn van een ander die hackt of andere slechte bedoelingen heeft en dit niet meldt bij een stafflid, zal gestraft worden volgens categorie 6.
 3. Het spelen met zodanige grafische settings dat hier een voordeel uit gehaald kan worden, is niet toegestaan. Hij/zij die dit doet, zal gestraft worden volgens categorie 2.
-    * Bijvoorbeeld het spelen op een stretched resolutie.
+    * Het spelen op een stretched resolutie
+    * Helder water / geen water
+    * Geen props
+    * Geen stenen
+    * Geen bosjes 
+    * Altijd dag
 
 ### 2.2 - Exploits
 1. Hij/zij die met opzet een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen, ongeacht in welke middelen, zal per direct gestraft worden volgens categorie 4.
@@ -321,6 +326,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * 6+ agenten mogen er 3 outside shooters zijn
 8. Repeterende overval scenario's zijn niet toegestaan. Hiermee worden dezelfde ontsnappingsroute en RP scenario’s mee bedoeld: Hij/zij die dit wel doet zal, bestraft worden volgens categorie 1 + mogelijke buit inleveren. 
 9. Het is niet toegestaan meer dan 4 overvallen op 1 dag te doen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+10. Het is niet toegestaan een grote bank overval te doen met een steek- of slagwapen. De speler die dit wel doet, zal gestraft worden volgens categorie 1 en zal de eventuele buit moeten inleveren.
 
 ### 4.8 - Counteren
 1. Het is niet toegestaan een overval te counteren wanneer politie de RP is aangegaan met de overvallers. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.

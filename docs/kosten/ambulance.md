@@ -5,11 +5,11 @@ De ambulance staat dagelijks klaar voor al uw verwondinge. Zonder een goede verz
 ## Behandelingen
 | Behandeling | Prijs |
 |---|:---:|
-| Kleine verwonding | € 200 |
-| Grote verwonding | € 300 |
-| Reanimatie | € 400 |
+| Kleine verwonding | € 250 |
+| Grote verwonding | € 500 |
+| Reanimatie | € 2500 |
 | Scan/foto | € 500 |
-| Operatie | € 1200 | 
+| Operatie | € 1000 | 
 
 ## Vervoerskosten
 | Vervoer | Prijs |

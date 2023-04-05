@@ -37,6 +37,7 @@ In de stad Columbus houden we ons aan diverse voertuig regels. Hieronder staat e
 * Mercedes AMG G65
 * Mercedes X classe
 * Nissan Patrol
+* RAM TRX
 * Range Rover Vogue
 * Rebel Raid
 * Sanchez

@@ -63,17 +63,17 @@ Voorbeelden hiervan zijn:
     * Het gebruik maken van de warmte camera
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Je voertuig gestolen melden bij een agent terwijl die niet het geval is.
+    * Een agent dwingen een wapen af te fouilleren van een persoon die dood ligt.
 
 ### 3.2 - Powergaming
 1. Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. De speler die zich hieraan schuldig maakt, zal gestraft worden volgens categorie 1. Enkele voorbeelden:
     * HeadID's misbruiken om spelers te vinden/identificeren tijdens een roleplayscenario.
-    * Onjuist of onrealistisch gebruik maken van het F6-menu.
-    * Het doen van meerdere handelingen in één /me of /e (emote) waardoor de tegenpartij geen tegenreactie kan geven (Bijvoorbeeld: /me Doet gordel los en duwt persoon uit voertuig, dit moet in 2 losse /me).
+    * Het doen van meerdere handelingen in één /me of /e (emote) waardoor de tegenpartij geen tegenreactie kan geven (Bijvoorbeeld: /me Doet deur open en trekt persoon uit voertuig, dit moet in 2 losse /me).
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me zonder daar een vervolg aan te geven of naar te roleplayen.
     * Het vluchten in je appartement tijdens een scenario.
     * Ongeacht de situatie binnen 10 minuten na het trekken van je wapen je wapen wegleggen.
     * Je auto binnen 10 minuten in de garage zetten na een achtervolging.
-    * Hieronder valt ook het pakken van een nieuwe auto uit de garage binnen deze 10 minuten.
+        * Hieronder valt ook het pakken van een nieuwe auto uit de garage binnen deze 10 minuten.
 
 ### 3.3 - F6-menu
 1. Het is niet toegestaan spelers zomaar te fouilleren. Wordt hier overduidelijk misbruik van gemaakt, zal de persoon gestraft worden volgens categorie 1.
@@ -87,7 +87,8 @@ Voorbeelden hiervan zijn:
 
 ### 3.5 - Meta gaming
 1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
-2. Alle spraakcommunicatie dient in game te gebeuren, het is niet toegestaan om in Discord porto’s of andere voice chats te communiceren tijdens RP. 
+2. Alle spraakcommunicatie dient in game te gebeuren, het is niet toegestaan om in Discord porto’s of andere voice chats te communiceren.
+    * Overheidsdiensten mogen wel gebruik maken van een porto systeem via de discord. De speler is verplicht, wanneer hij/zij gebruik maakt van dit systeem, hoorbaar te zijn ingame. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 3. Om een overval scenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen.
 4. Het is niet toegestaan iemand te identificeren door middel van Steam of Discord naam.
 5. Het is niet toegestaan rollen die gegeven zijn in een Discord te gebruiken als informatie in de stad.
@@ -108,8 +109,9 @@ Voorbeelden hiervan zijn:
 
 ### 3.8 - GTA-style driving
 1. Het is niet toegestaan onrealistisch rijgedrag te vertonen. Doet de speler dit wel, zal hij/zij bestraft worden volgens categorie 1.
-2. Het is, toegestaan om van de normale rijbaan af te gaan mits dit met de juiste voertuigen gedaan wordt en dit met een realistische snelheid gaat.
-    * Onder het kopje "Voertuigen" staat een lijstje met welke voertuigen wel en niet offroad mogen
+2. Het is, toegestaan om van de normale rijbaan af te gaan mits dit met de juiste voertuigen gedaan wordt en dit met een realistische snelheid gaat. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens punt 1.
+    * Onder het kopje "Voertuigen" staat een lijstje met welke voertuigen wel en niet offroad mogen.
+    * De ondergrondse spoorwegtunnels worden ook als off-road beschouwd.
 3. Het betreden van een openbaar gebouw met een voertuig valt hier ook onder en zal bestraft worden volgens categorie 1.
 4. Het onrealistisch gebruik maken van je auto is ook niet toegestaan. Dit zal ook bestraft worden volgens categorie 1.
     * Van een schans af springen met je voertuig.
@@ -124,7 +126,8 @@ Voorbeelden hiervan zijn:
 ### 3.10 - No value of life
 1. Je dient altijd je leven te waarderen en te spelen alsof gewond raken of dood gaan echt het einde van je leven betekent. Beeld je in hoe jij hier in het echt op zou reageren. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens categorie 2. Enkele voorbeelden:
     * Zodra iemand een pistool op je richt binnen 20 stappen en je niet achter beschutting staat, blijf je staan, werk je mee en val je deze persoon niet aan. Ook in groeps verband blijf je staan. Er is een wapen in het spel en de speler is zijn leven dierbaar.
-    * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden
+    * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
+        * Dit geldt alleen wanneer die persoon een bedreiging vormt voor jou.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren. (Je bent verplicht eerst te landen en dan pas in of uit te stappen.)
     * Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
     * Het is niet toegestaan weg te rijden met een stilstaande auto wanneer er een vuurwapen gericht staat.
@@ -143,10 +146,10 @@ Voorbeelden hiervan zijn:
 
 ### 3.12 - Green zones
 1. Het is verboden voor een speler schade aan te richten aan de andere speler en zich daarna te begeven in een green zone.
-2. Het is verboden om door middel van de safe-zone te ontkomen aan illegale activiteiten en/of roleplays.
+2. Het is verboden om door middel van de green zone te ontkomen aan illegale activiteiten en/of roleplays.
 3. Het is verboden om een speler schade aan te richten, te ontvoeren, overvallen, aanrijden of vermoorden in een green zone.
 5. Alle bovenstaande regels zullen gestraft worden volgens categorie 1.
-    - Safe zone locaties:
+    - Green zone locaties:
         * ANWB
         * Ziekenhuis
         * Begraafplaats (hier spawn je als je dood bent gegaan)
@@ -248,7 +251,20 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 ### 3.27 - Factuur overheid vermijden
 1. Hij/zij die weg rijdt van een overheidsmedewerker zonder dat de medewerker een factuur heeft kunnen sturen, zal gestraft worden volgens categorie 1 en zal een boete opgelegd krijgen van 25% extra factuur kosten.
 
-### 3.28 - No fly zone
+### 3.28 - Kleding
+1. Er wordt verwacht dat de speler ten aller tijden de kleding draagt die voorzien is door de werkgever tijdens het uitvoeren van zijn/haar baan. Wordt dit niet gedaan, zal de speler gestraft worden volgens categorie 2.
+2. Hij/zij die niet over een overheidsbaan beschikt, maar wel overheids kleding draagt, zal bestraft worden volgens categorie 2.
+3. Het is niet toegestaan een officieel kledingstuk die behoort tot een groepering te dragen wanneer hij/zij hier niet bij hoort. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 2.
+    * Dit mag wel wanneer hier een goede roleplay aan vast zit.
+4. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan of verwijzen naar de Politie. Hetzelfde geldt voor tassen en andere accessoires.
+5. Onder overheidsbanen vallen:
+    * Politie
+    * Ambulance
+    * ANWB
+    * Advocaten (Justitie)
+    * Taxi
+
+### 3.29 - No fly zone
 1. Het is niet toegestaan op de volgende locaties te vliegen met een helikopter: lager dan 300 meter boven blokkenpark te vliegen met een helikopter.
     * Politie HB
     * Military base
@@ -462,18 +478,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Het optreden als advocaat bij een misdrijf van vrienden en/of waar je zelf bij betrokken bent geweest.
 2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 
-### 5.8 - Beroepskleding
-1. Er wordt verwacht dat de speler ten aller tijden de kleding draagt die voorzien is door uw werkgever tijdens het uitvoeren van uw baan. Wordt dit niet gedaan, zal de speler gestraft worden volgens categorie 2.
-2. Hij/zij die niet over een overheidsbaan beschikt, maar wel overheids kleding draagt, zal bestraft worden volgens categorie 2.
-3. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan of verwijzen naar de Politie. Hetzelfde geldt voor tassen en andere accessoires.
-    * Onder overheidsbanen vallen:
-        * Politie
-        * Ambulance
-        * ANWB
-        * Advocaten (Justitie)
-        * Taxi
-
-### 5.9 - Money farmen
+### 5.8 - Money farmen
 1. Het is niet toegestaan als overheidsmedewerker stil te staan om zo geld te verdienen zonder iets te doen. Dit wordt ook wel "money farmen" genoemd. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1 en zal het geld wat hiermee is verdiend moeten inleveren.
 
 ## 6. Overige regels
@@ -517,14 +522,12 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 3. Ook zal diegene een permanente verbanning krijgen uit al onze Discords.
 
 ### 6.9 - AFK
-1. Het is niet toegestaan om de automatisch kick te omzeilen.
-2. Het is niet toegestaan als overheidsmedewerker stil te staan om zo geld te verdienen zonder iets te doen. 
-3. Hij/zij die een van de bovenstaande regels overtreedt, zal bestraft worden met een straf volgens categorie 1.
+1. Het is niet toegestaan om de automatisch kick te omzeilen. Hij/zij die deze regel overtreedt, zal bestraft worden met een straf volgens categorie 1.
+2. Het is niet toegestaan als overheidsmedewerker in dienst geen werkzaamheden te verrichten om zo geld te verdienen. Hij/zij die dit wel doet zal gestraft worden volgens categorie 1 en zal het verdiende geld, vanaf het moment dat hij/zij in dienst ging, ingenomen worden.
 
-### 6.10 - Alt Characters
-1. Een 'alt account' is een 2e, of 3e (etc.) account waar op gespeeld wordt door dezelfde speler.
-2. Het is verboden 2 accounts te gebruiken om op Columbus Roleplay te spelen.
-3. Hij/zij die zich schuldig maakt aan een van de bovengenoemde regels zal gestraft worden volgens categorie 6 op alle accounts.
+### 6.10 - Alt Accounts
+1. Het is verboden een alt account te gebruiken om op Columbus Roleplay te spelen.Hij/zij die zich hier aan schuldig maakt, zal gestraft worden volgens categorie 6 op alle accounts.
+    * Een 'alt account' is een extra account naast het account waar al op gespeeld wordt door dezelfde speler. 
 
 ### 6.11 - Earrape
 1. Hieronder wordt verstaan een persoon die met zijn microfoon/soundpad dusdanig onnodig veel lawaai maakt, dat het niet normaal te verdragen is voor andere burgers.

@@ -178,7 +178,8 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 
 ### 3.16 - Stemherkenning
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent in karakter.
-2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+2. Indien de speler duidelijk moeite doet om zijn stem te vervormen of de speler draagt een masker die het gehele gezicht bedekt, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+    * Een aanvulling hierop is, dat wanneer de speler in een auto zit met volledig geblindeerde ramen, het ook niet is toegestaan de speler te herkennen aan zijn/haar stem.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, baby stemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
     * Je bent verplicht een masker op te hebben die het gehele gezicht bedekt wil je een voice changer gebruiken. Alleen een stoffen doekje voor je mond of iets wat daarop lijkt, is dus niet voldoende. 
 4. De bovenstaande overtredingen zullen bestraft worden volgens categorie 1.

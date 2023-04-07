@@ -156,7 +156,7 @@ Voorbeelden hiervan zijn:
         * Politie HB, deze greenzone vervalt bij een minimum van 5 politieagenten.
 
 ### 3.13 - VDM
-1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens categorie 1.
+1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens categorie 2.
 2. Het is niet toegestaan een persoon op een motor te pitten of moedwillig aan te rijden, omdat dit realistisch gezien een grote kans op dodelijke slachtoffers heeft en dus gezien zal worden als intentie tot moord. Hij/zij die dit toch doet, zal gestraft worden volgens punt 1.
 
 ### 3.14 - Pitten
@@ -272,6 +272,11 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * lager dan 300 meter boven blokkenpark
 2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
     * De politie heeft hier uitzondering op. Zij mogen lager vliegen dan deze hoogte.
+
+### 3.30 - Uitvoering UWV Baan
+1. Bij het uitvoeren van een UWV baan dient de speler gebruik te maken van de het voertuig dat aangeboden wordt door de werkgever.
+2. Bij het uitvoeren van een UWV baan dient de speler de kleding te dragen die bij deze baan hoort. 
+3. Alle bovenstaande puntjes zullen bestraft worden volgens categorie 1.
 
 ## 4. Criminele activiteiten
 
@@ -463,6 +468,8 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 9. Een politie uit dienst mag geen wapens bij zich dragen, deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Hij/zij die deze regel verbreekt, zal worden gestraft volgens categorie 1.
     * Er geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 10. Het is niet toegestaan afgenomen spullen weg te leggen binnen 10 minuten na het afnemen van deze spullen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+11. Het is voor een politie agent niet toegestaan deel te nemen aan een overval scenario wanneer deze gestart is voordat/op het moment dat de speler in het laadscherm is. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+    * Dit geldt niet wanneer de speler 5 minuten geleden nog in de stad was. Dit om bijvoorbeeld te reloggen of door een crash.
 
 ### 5.5 - Overheids items
 1. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan door te verkopen of te geven aan iemand die niet over deze baan beschikt. Hij/zij die wel doet, zal gestraft worden volgens 5.1 - corruptie.

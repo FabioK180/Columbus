@@ -63,7 +63,6 @@ Voorbeelden hiervan zijn:
     * Het onrealistisch gebruik maken van de warmte camera. Dit is ter beoordeling van een stafflid.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Je voertuig gestolen melden bij een agent terwijl die niet het geval is.
-    * Een agent dwingen een wapen af te fouilleren van een persoon die dood ligt.
 
 ### 3.2 - Powergaming
 1. Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. De speler die zich hieraan schuldig maakt, zal gestraft worden volgens categorie 1. Enkele voorbeelden:

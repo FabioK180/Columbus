@@ -12,19 +12,19 @@
 ### 1.2 - Strafbepaling
 1. In Columbus gaan wij te werk met verschillende categorieën aan straffen.
     * Categorie 1: Waarschuwing + 10 maanden (De speler heeft het recht eerst zijn/haar spullen weg te leggen.)
-        * Wanneer iemand schuldig is aan 3 waarschuwingen in 1 maand zal er een straf opgelegd worden uit categorie 3.
+        * Wanneer iemand schuldig is aan 3 waarschuwingen in 1 maand zal er een straf opgelegd worden uit categorie 2.
     * Categorie 2: een ban van 2 dagen
     * Categorie 3: een ban van 4 dagen
     * Categorie 4: een ban van 1 week
     * Categorie 5: een ban van 1 maand
-    * Categorie 6: een perm ban
+    * Categorie 6: account wipe
+    * Categorie 7: een perm ban
         * Deze straf kan preventief worden toegepast. Dit wil zeggen, dat wanneer iemand op heterdaad is betrapt bij het overtreden van een regel of iets bij zich heeft wat diegene niet bij zich hoort te hebben, deze straf toegepast kan worden. Deze straf zal dan in een ticket verder behandeld worden.
-    * Categorie 7: account wipe
 2. Een stafflid zal ten alle tijden eerst naar de speler toe gaan om uitleg te geven over de straf. Wordt dit niet gedaan, dan kan het desbetreffende stafflid een staffwarn kunnen krijgen.
 
 ### 1.3 - Aanvulling op strafbepaling
 1. Er kan door een stafflid gekozen worden om af te wijken van de aangegeven straffen. Dit wil zeggen dat een stafflid de keuze heeft om aan de hand van de situatie en de bewijzen te bepalen of hij de straf verzwaard/vermindert.
-2. Alle straffen, met uitzondering van categorie 6, mogen aangevochten worden door de desbetreffende speler door middel van een ticket. Een categorie 6 ban zal via het unban formulier aangevraagd moeten worden.
+2. Alle straffen, met uitzondering van categorie 7, mogen aangevochten worden door de desbetreffende speler door middel van een ticket. Een categorie 7 ban zal via het unban formulier aangevraagd moeten worden.
 3. Bij een overtreding kan er voor gekozen worden in plaats van een schriftelijke waarschuwing een mondelinge waarschuwing uit te delen. Hierbij zal gecontroleerd worden of de speler de regels daadwerkelijk begrijpt. Afspraken die hierbij zijn gemaakt dienen nageleefd te worden. Indien iemand een mondelinge waarschuwing ontvangt, dient dit bij de notities opgeschreven te worden. Wordt dit niet genoteerd zal de waarschuwing niet geldig zijn.
 4. Het omzeilen van een straf zal resulteren in een zwaardere straf en een waarschuwing. Dit kan leiden tot een permanente ban.
 5. Wanneer iemand probeert "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel zal dit worden gestraft met categorie 4.
@@ -32,8 +32,8 @@
 ## 2. Exploits en cheats
 
 ### 2.1 - Cheats en graphics
-1. Hij/zij die gebruikmaakt van software/hulpmiddelen van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens categorie 6.
-2. Hij/zij die profijt haalt uit het krijgen van goederen zoals geld, items, enzovoort die verkregen zijn van een ander die hackt of andere slechte bedoelingen heeft en dit niet meldt bij een stafflid, zal gestraft worden volgens categorie 6.
+1. Hij/zij die gebruikmaakt van software/hulpmiddelen van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens categorie 7.
+2. Hij/zij die profijt haalt uit het krijgen van goederen zoals geld, items, enzovoort die verkregen zijn van een ander die hackt of andere slechte bedoelingen heeft en dit niet meldt bij een stafflid, zal gestraft worden volgens categorie 7.
 3. Het spelen met zodanige grafische settings dat hier een voordeel uit gehaald kan worden, is niet toegestaan. Hij/zij die dit doet, zal gestraft worden volgens categorie 2.
     * Het spelen op een stretched resolutie
     * Helder water / geen water
@@ -48,7 +48,7 @@ Voorbeelden hiervan zijn:
     * Het moedwillig dupliceren van in-game items.
     * Het niet aangeven van gedupliceerde items na restarts.
     * Het gebruik maken van een emotie om aan de andere kant van de muur te komen of uit te breken van bijvoorbeeld de gevangenis.
-2. Wanneer dit boven de €100.000,- (marktwaarde) gaat, zal dit gestraft worden volgens categorie 7.
+2. Wanneer dit boven de €100.000,- (marktwaarde) gaat, zal dit gestraft worden volgens categorie 6.
     * Er zal in overleg bepaald worden wat de extra straf hierbij wordt.
 
 ## 3. Verstoren van RP
@@ -79,6 +79,7 @@ Voorbeelden hiervan zijn:
 1. Het is niet toegestaan spelers zomaar te fouilleren. Wordt hier overduidelijk misbruik van gemaakt, zal de persoon gestraft worden volgens categorie 1.
     * Er dient ten alle tijden bij het fouilleren een wapen in het spel te zijn door de speler die fouilleert of door de groep waar deze speler bij hoort.
     * Je dient ten alle tijden bij het fouilleren achter de desbetreffende speler te staan.
+    * Het is niet toegestaan iemand te fouilleren die hij/zij in Take hostage heeft.
 2. Het is niet toegestaan te rennen met iemand die je mee neemt. Er moet op een normaal tempo gelopen worden. Hij/zij die dit niet doet, zal gestraft worden volgens categorie 1.
 3. Het is niet toegestaan de fouilleer functie te gebruiken om grotere aantallen van een item op zak te hebben dan het toegestane limiet. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1. Met uitzondering van overschrijding van limiet door overvallen en rip acties.
 
@@ -88,7 +89,6 @@ Voorbeelden hiervan zijn:
 ### 3.5 - Meta gaming
 1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
 2. Alle spraakcommunicatie dient in game te gebeuren, het is niet toegestaan om in Discord porto’s of andere voice chats te communiceren.
-    * Overheidsdiensten mogen wel gebruik maken van een porto systeem via de discord. De speler is verplicht, wanneer hij/zij gebruik maakt van dit systeem, hoorbaar te zijn ingame. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 3. Om een overval scenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen.
 4. Het is niet toegestaan iemand te identificeren door middel van Steam of Discord naam.
 5. Het is niet toegestaan rollen die gegeven zijn in een Discord te gebruiken als informatie in de stad.
@@ -98,7 +98,7 @@ Voorbeelden hiervan zijn:
 1. Hij/zij die met opzet roleplays van andere spelers verstoord zal gestraft worden met een straf volgens categorie 2.
     * Wanneer de speler na deze waarschuwing meteen weer begint met het verstoren van een roleplay, wordt hij/zij gestraft worden volgens categorie 2.
 2. Hij/zij die met opzet een voertuig op garage cirkels of andere cirkels zet, wordt gestraft volgens categorie 1.
-3. Hij/zij die niet wil meewerken met een huiszoeking, zal gestraft worden volgens een safe ban (categorie 6).
+3. Hij/zij die niet wil meewerken met een huiszoeking, zal gestraft worden volgens een safe ban (categorie 7).
 4. Het verstoren van een RP waarbij de ambulance bij betrokken is, is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
 
 ### 3.7 - Combat loggen
@@ -141,7 +141,7 @@ Voorbeelden hiervan zijn:
 1. Indien uw karakter dood is gegaan wordt er verwacht dat hij/zij de laatste roleplay vergeet. Houdt de speler zich hier niet aan, zal hij/zij gestraft worden volgens categorie 1.
     * Dit houdt ook in dat wanneer iemand dood is gegaan hij/zij niet meer mag deelnemen aan hetzelfde scenario.
     * Het is ook niet zo dat wanneer de speler weer levend is en hij/zij informatie krijgt van andere spelers over wat er is gebeurd, hij/zij mag deelnemen aan dit scenario. Je bent compleet vergeten wie je heeft vermoord en wat er allemaal bij gebeurd is. Je start weer opnieuw met alles. Wraakacties mogen daarom ook niet door jou uitgevoerd worden.
-    * Het is, nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 30 min niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
+    * Het is, nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 60 min niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
     * Het verschil tussen punt 2 en 3 is als volgt, heeft een groepering de speler gedood, geldt punt 3. Is dit gedaan door 1 persoon dan geldt punt 2.
 
 ### 3.12 - Green zones
@@ -170,7 +170,7 @@ Voorbeelden hiervan zijn:
         * Dus pitten mag met gelijke carrosserieën of als je voertuig zwaarder is dan het andere voertuig. (tweewielers weggelaten)
 4. Hij/zij die zich niet kan houden aan de bovenstaande regel, zal bestraft worden volgens categorie 1.
 5. Brake checken is toegestaan indien dit realistisch blijft. Wordt dit niet realistisch gedaan, kan dit leiden tot een straf. Wanneer jij iemand brake checkt, is dit op eigen risico. Ga jij hierdoor dood, is er geen mogelijkheid tot refund.
-6. Het is niet toegestaan wanneer de speler aan het rijden is, een andere speler van de motor af te trappen.
+6. Het is niet toegestaan te "trappen" wanneer de speler op een motor zit. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
 
 ### 3.15 - RDM
 1. Hij/zij die zonder geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens categorie 2.
@@ -192,7 +192,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 4. Het is niet toegestaan een onrealistische melding te maken. Deze dient ten alle tijden uitgebreid en realistisch te zijn. Een melding zoals “Kom snel hulp nodig” is dus niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
 
 ### 3.18 - Zelfmoord
-1. Het is toegestaan zelfmoord te plegen. Echter als hij/zij dit doet, zal hier een account wipe aan verbonden zijn. Je karakter heeft zijn leven beëindigd. Wordt dit meermaals uitgevoerd dan zal hij/zij gestraft worden volgens categorie 6.
+1. Het is toegestaan zelfmoord te plegen. Echter als hij/zij dit doet, zal hier een account wipe aan verbonden zijn. Je karakter heeft zijn leven beëindigd. Wordt dit meermaals uitgevoerd dan zal hij/zij gestraft worden volgens categorie 7.
 
 ### 3.19 - Stelen van een voertuig
 1. Het stelen van een voertuig is toegestaan mits de volgende genoemde onderdelen niet van toepassing zijn:
@@ -200,7 +200,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * De speler aan het tanken is.
     * De speler aan het repareren is.
 2. Hij/zij die het in een van deze gevallen wel doet, zal bestraft worden volgens categorie 1. 
-3. Het is ten strengste verboden een voertuig van taxi, ANWB en ambulance te stelen. Hij/zij die zich hier wel aan schuldig maakt, zal worden gestraft volgens categorie 1.
+3. Het is ten strengste verboden een voertuig van taxi en ANWB te te stelen. Hij/zij die zich hier wel aan schuldig maakt, zal worden gestraft volgens categorie 1.
     * Dit geldt ook voor burgers uit de overheid die uit dienst zijn.
 
 ### 3.20 - Bodycam
@@ -266,7 +266,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * Taxi
 
 ### 3.29 - No fly zone
-1. Het is niet toegestaan op de volgende locaties te vliegen met een helikopter: lager dan 300 meter boven blokkenpark te vliegen met een helikopter.
+1. Het is niet toegestaan op de volgende locaties te vliegen met een helikopter:
     * Politie HB
     * Military base
     * lager dan 300 meter boven blokkenpark
@@ -295,9 +295,6 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * Facturen en/of andere items die gerelateerd zijn aan een baan.
     * Voorwerpen van de overheidsbanen.
     * Onder dwang iemand zijn huis betreden en dan leegroven.
-    * Legale goederen (brood, water, repair kits etc.)
-        * Een uitzondering hier op is een porto. Deze mag wel afgenomen worden.
-    * Kofferbak mag ten alle tijden niet beroofd worden.
 4. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
     * Voertuigen 
     * Meer dan 100.000 euro witgeld
@@ -305,7 +302,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 5. De bescherming tegen oplichting zoals genoemd in punt 4 & 5 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op moment van verkoop.
     * Dit wil dus zeggen dat je niet wordt beschermd bij een lening. Dit is op eigen risico. Op voertuigen mag je op geen enkele manier oplichten
 6. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
-    * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 7. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
+    * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 6. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
 7. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
 
 ### 4.3 - Gebruik zware wapens
@@ -342,10 +339,10 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Hetzelfde geldt voor appartementen of andere gebouwen waar de speler niet meer zichtbaar is voor de rest van de spelers.
 6. Politie heeft het recht binnen te vallen. Dit moet echter gedaan worden wanneer zij zeker weten de levens van de gegijzelde te redden. Wanneer dit niet het geval is, zit de politie in de fout. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
     * Dit geldt niet voor slagwapens zoals een knuppel en ook niet voor een gebroken fles. Hier mag politie ten allen tijde bij binnenvallen. Omdat dit  vaak geen zwaar letsel kan veroorzaken aan een hostage. Overigens zal dit niet altijd gedaan worden door de politie.
-7. Het is niet toegestaan om een outside shooter te hebben wanneer er minder dan 5 agenten in dienst zijn. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1 en wordem alle gebruikte wapens, die de outside shooters op zak hadden, ingenomen. 
-    * 5 agenten mag er 1 outside shooter zijn
-    * 6 agenten mogen er 2 outside shooters zijn
-    * 6+ agenten mogen er 3 outside shooters zijn
+7. Het is niet toegestaan om een outsider te hebben wanneer er minder dan 5 agenten in dienst zijn. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1 en worden alle gebruikte wapens, die de outside shooters op zak hadden, ingenomen. 
+    * 5 agenten mag er 1 outsider zijn
+    * 6 agenten mogen er 2 outsiders zijn
+    * 7+ agenten mogen er 3 outsiders zijn
 8. Repeterende overval scenario's zijn niet toegestaan. Hiermee worden dezelfde ontsnappingsroute en RP scenario’s mee bedoeld: Hij/zij die dit wel doet zal, bestraft worden volgens categorie 1 + mogelijke buit inleveren. 
 9. Het is niet toegestaan meer dan 4 overvallen op 1 dag te doen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 10. Het is niet toegestaan een grote bank overval te doen met een steek- of slagwapen. De speler die dit wel doet, zal gestraft worden volgens categorie 1 en zal de eventuele buit moeten inleveren.
@@ -417,16 +414,14 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 ### 4.17 Locaties
 1. Het campen/opwachten op de witwas locaties en het voertuig ophaalpunt is verboden. Dit zal bestraft worden volgens categorie 2.
 2. Het campen van niet actieve drugs locatie is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
-3. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
+3. Het campen van verpak locaties is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+4. Het campen van de wapen craft is niet toegestaan. Hij/zij die zich hier schuldig aan bevindt, zal bestraft worden volgens categorie 2.
+5. Het overvallen van de wiet pluk en de wiet verpak is niet toegestaan. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 2.
 
 ### 4.18 - Illegale activiteiten op Twitter
 1. Het is niet toegestaan om illegale activiteiten te bespreken op Twitter. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
     * Onder illegale activiteiten wordt onder andere verstaan, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.
 2. Het is niet toegestaan schuilnamen te gebruiken voor illegale activiteiten. Denk hierbij aan "Kleding wassen" en "Snoepjes fabriek" etc. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
-
-### 4.19 - Take Hostage
-1. Het is niet toegestaan iemand met /th te hostagen wanneer de speler nog geen wapen heeft getrokken. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1 en zal het gebruikte wapen ingenomen worden.
-    * De speler moet een wapen vast houden om iemand met /th te kunnen pakken.
 
 ## 5. Overheidsmedewerkers
 
@@ -467,8 +462,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 8. Het is niet toegestaan om door de politie in beslag genomen goederen door te handelen naar spelers of op te slaan in eigen opslag (appartement/voertuigen). Ook geldt dit op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst (Dit wordt dus ten alle tijde geheim gehouden). Hij/zij die zich hieraan schuldig maakt, zal een straf ontvangen volgens corruptie.
 9. Een politie uit dienst mag geen wapens bij zich dragen, deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Hij/zij die deze regel verbreekt, zal worden gestraft volgens categorie 1.
     * Er geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
-10. Het is niet toegestaan afgenomen spullen weg te leggen binnen 10 minuten na het afnemen van deze spullen. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
-11. Het is voor een politie agent niet toegestaan deel te nemen aan een overval scenario wanneer deze gestart is voordat/op het moment dat de speler in het laadscherm is. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+10. Het is voor een politie agent niet toegestaan deel te nemen aan een overval scenario wanneer deze gestart is voordat/op het moment dat de speler in het laadscherm is. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
     * Dit geldt niet wanneer de speler 5 minuten geleden nog in de stad was. Dit om bijvoorbeeld te reloggen of door een crash.
 
 ### 5.5 - Overheids items
@@ -519,14 +513,14 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Houdt de speler in deze 3 dagen zichzelf er nog steeds niet aan, zal hij/zij een ban krijgen van 3 dagen.
 
 ### 6.6 - IRL Trade
-1. Het verhandelen van items, valuta, diensten of accounts voor echt geld is verboden en zal worden bestraft met een straf volgens categorie 6.
+1. Het verhandelen van items, valuta, diensten of accounts voor echt geld is verboden en zal worden bestraft met een straf volgens categorie 7.
 
 ### 6.7 - Starters Geld
-1. Het is niet toegestaan starters geld aan anderen te geven zonder enige bedoeling zelf te gaan spelen. Beide partijen die zich hier schuldig aan hebben gemaakt, zullen bestraft worden volgens categorie  7.
+1. Het is niet toegestaan starters geld aan anderen te geven zonder enige bedoeling zelf te gaan spelen. Beide partijen die zich hier schuldig aan hebben gemaakt, zullen bestraft worden volgens categorie 6.
 
 ### 6.8 - Bedreigen / intimideren
-1. Het is ten strengste verboden om een burger te bedreigen of te intimideren met een DDOS aanval. Ook dingen die ook maar een beetje bij de feiten komen die vermeld staan hier zal bestraft worden volgens categorie 6.
-2. Het doxen of ddossen van burgers of staff leden is verboden. Hij/zij die zich hier schuldig aan maakt, zal bestraft worden volgens categorie 6. 
+1. Het is ten strengste verboden om een burger te bedreigen of te intimideren met een DDOS aanval. Ook dingen die ook maar een beetje bij de feiten komen die vermeld staan hier zal bestraft worden volgens categorie 7.
+2. Het doxen of ddossen van burgers of staff leden is verboden. Hij/zij die zich hier schuldig aan maakt, zal bestraft worden volgens categorie 7. 
 3. Ook zal diegene een permanente verbanning krijgen uit al onze Discords.
 
 ### 6.9 - AFK
@@ -534,7 +528,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 2. Het is niet toegestaan als overheidsmedewerker in dienst geen werkzaamheden te verrichten om zo geld te verdienen. Hij/zij die dit wel doet zal gestraft worden volgens categorie 1 en zal het verdiende geld, vanaf het moment dat hij/zij in dienst ging, ingenomen worden.
 
 ### 6.10 - Alt Accounts
-1. Het is verboden een alt account te gebruiken om op Columbus Roleplay te spelen.Hij/zij die zich hier aan schuldig maakt, zal gestraft worden volgens categorie 6 op alle accounts.
+1. Het is verboden een alt account te gebruiken om op Columbus Roleplay te spelen.Hij/zij die zich hier aan schuldig maakt, zal gestraft worden volgens categorie 7 op alle accounts.
     * Een 'alt account' is een extra account naast het account waar al op gespeeld wordt door dezelfde speler. 
 
 ### 6.11 - Earrape
@@ -554,7 +548,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 1. Het is niet toegestaan om in een Discord te zitten waar jij niet bij hoort. Een overheidsmedewerker zit dus niet in de onderwereld Discord en een crimineel zit niet in de overheids Discord. Met uitzondering van ANWB, taxi en Staff.
 
 ### 6.15 - Belediging
-1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een minimale straf van categorie 4  en een straf van maximaal categorie 6.
+1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een minimale straf van categorie 4  en een straf van maximaal categorie 7.
     * Dit geldt ook op Discord-, Steam- en Character namen
 
 ### 6.16 - Streamsnipen

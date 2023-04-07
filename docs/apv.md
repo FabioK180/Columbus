@@ -60,7 +60,7 @@ Voorbeelden hiervan zijn:
     * Het gebruiken van /carry op een onrealistische manier.
     * Het controleren/bestelen van kofferbakken zonder enige aanleiding.
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me.
-    * Het gebruik maken van de warmte camera
+    * Het onrealistisch gebruik maken van de warmte camera. Dit is ter beoordeling van een stafflid.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Je voertuig gestolen melden bij een agent terwijl die niet het geval is.
     * Een agent dwingen een wapen af te fouilleren van een persoon die dood ligt.

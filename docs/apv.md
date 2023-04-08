@@ -423,6 +423,9 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Onder illegale activiteiten wordt onder andere verstaan, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.
 2. Het is niet toegestaan schuilnamen te gebruiken voor illegale activiteiten. Denk hierbij aan "Kleding wassen" en "Snoepjes fabriek" etc. Hij/zij die zich hier schuldig aan maakt, zal gestraft worden volgens categorie 1.
 
+### 4.19 - Turf
+1. Het is niet toegestaan een spray te zetten op overheidsgebouwen en openbare gebouwen. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
+
 ## 5. Overheidsmedewerkers
 
 ### 5.1 - corruptie

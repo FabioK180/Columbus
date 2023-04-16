@@ -193,8 +193,8 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 ### 3.18 - Zelfmoord
 1. Het is toegestaan zelfmoord te plegen. Echter als hij/zij dit doet, zal hier een account wipe aan verbonden zijn. Je karakter heeft zijn leven beëindigd. Wordt dit meermaals uitgevoerd dan zal hij/zij gestraft worden volgens categorie 7.
 
-### 3.19 - Stelen van een voertuig
-1. Het stelen van een voertuig is toegestaan mits de volgende genoemde onderdelen niet van toepassing zijn:
+### 3.19 - Stelen en overvallen van een voertuig
+1. Het stelen en overvallen van een voertuig is toegestaan mits de volgende genoemde onderdelen niet van toepassing zijn:
     * De speler aan het in- of uitladen is.
     * De speler aan het tanken is.
     * De speler aan het repareren is.
@@ -425,6 +425,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.19 - Turf
 1. Het is niet toegestaan een spray te zetten op overheidsgebouwen en openbare gebouwen. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
+2. Het is niet toegestaan iemand te vermoorden, omdat hij/zij in jou territorium aan het sprayen is of drugs verkoopt. Er dient altijd een roleplay scenario aan vooraf geweest te zijn. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens 3.15 - RDM.
 
 ## 5. Overheidsmedewerkers
 

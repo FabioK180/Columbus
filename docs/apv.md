@@ -277,6 +277,9 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 2. Bij het uitvoeren van een UWV baan dient de speler de kleding te dragen die bij deze baan hoort. 
 3. Alle bovenstaande puntjes zullen bestraft worden volgens categorie 1.
 
+### 3.31 - Trackers
+1. Het is niet toegestaan om twee of meerdere trackers onder 1 voertuig te plakken. Hij/zij die dit wel doet zal, gestraft worden volgens categorie 1.
+
 ## 4. Criminele activiteiten
 
 ### 4.1 - Groeien als crimineel

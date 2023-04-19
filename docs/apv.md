@@ -237,7 +237,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 
 ### 3.25 - No value of property
 1. De speler dient ten alle tijden waarde te hechten aan zijn/haar spullen. Enkele voorbeelden waar dit niet het geval is:
-    * Een auto met opzet het water in te rijden zonder enige geldige reden.
+    * Een auto met opzet het water in te rijden.
     * Voor geen enkele geldige reden een vuurwapen gebruiken.
 2. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 

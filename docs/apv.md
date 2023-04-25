@@ -58,7 +58,6 @@ Voorbeelden hiervan zijn:
     * Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval.
     * In een portofoon/telefoon praten terwijl je aan het zwemmen bent of onder water bent.
     * Het gebruiken van /carry op een onrealistische manier.
-    * Het controleren/bestelen van kofferbakken zonder enige aanleiding.
     * Het afnemen van (meerdere) politie (vuur)wapens in één simpele /me.
     * Het onrealistisch gebruik maken van de warmte camera. Dit is ter beoordeling van een stafflid.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
@@ -280,6 +279,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 
 ### 3.31 - Trackers
 1. Het is niet toegestaan om twee of meerdere trackers onder 1 voertuig te plakken. Hij/zij die dit wel doet zal, gestraft worden volgens categorie 1.
+Hierbij de regel over trackers
 
 ## 4. Criminele activiteiten
 
@@ -307,7 +307,6 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 6. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
     * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 6. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
 7. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
-8. Het is niet toegestaan iemand te forceren zijn/haar kofferbak open te maken. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1 en alle afgenomen spullen zullen terug gaan naar de rechtvaardige eigenaar gaan.
 
 ### 4.3 - Gebruik zware wapens
 1. Het is pas toegestaan een zwaar wapen te gebruiken wanneer er minimaal vijf agenten in dienst zijn. Onder zware wapens verstaan we:
@@ -398,7 +397,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 4.15 - Doden van agenten
 1. Het is niet toegestaan zonder geldige reden een agent dood te schieten. De reden: “het is een agent.” is dus geen geldige reden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
-2. Het doodschieten van een agent omdat een vriend wordt aangehouden voor een simpele overtreding is niet toegestaan.
+2. Het doodschieten van een agent omdat een vriend wordt aangehouden voor een simpele overtreding is niet toegestaan. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
 3. De speler is verplicht ten alle tijden de RP aan te gaan met de politie. Dit kan door de agent te handsuppen om de arrestant vrij te laten en dus niet de agent te doden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 2.
     * Handsuppen mag pas gedaan worden wanneer er met zekerheid gezegd kan worden dat de arrestant een zware straf zal krijgen.
 4. Het dood schieten van een agent omdat de speler celstraf heeft gekregen van deze agent is niet toegestaan. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
@@ -472,6 +471,7 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
     * Er geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 10. Het is voor een politie agent niet toegestaan deel te nemen aan een overval scenario wanneer deze gestart is voordat/op het moment dat de speler in het laadscherm is. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
     * Dit geldt niet wanneer de speler 5 minuten geleden nog in de stad was. Dit om bijvoorbeeld te reloggen of door een crash.
+11. Het is niet toegestaan een verpak/pluk binnen te vallen wanneer er minder dan 2 vuurwapen dragende agenten aanwezig zijn. De agent die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
 
 ### 5.5 - Overheids items
 1. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan door te verkopen of te geven aan iemand die niet over deze baan beschikt. Hij/zij die wel doet, zal gestraft worden volgens 5.1 - corruptie.
@@ -596,4 +596,3 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 ??? info 
     
     De APV van Columbus roleplay kan op ieder moment veranderd worden. Houdt het kanaal #regel-aanpassingen in de gaten voor eventueel changes.
-    

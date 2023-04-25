@@ -279,7 +279,6 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 
 ### 3.31 - Trackers
 1. Het is niet toegestaan om twee of meerdere trackers onder 1 voertuig te plakken. Hij/zij die dit wel doet zal, gestraft worden volgens categorie 1.
-Hierbij de regel over trackers
 
 ## 4. Criminele activiteiten
 
@@ -307,6 +306,7 @@ Hierbij de regel over trackers
 6. Hij/zij die zich niet houdt aan deze regels, zal gestraft worden volgens categorie 3 en het geld/de spullen moeten terug naar de rechtvaardige eigenaar.
     * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 6. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
 7. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
+8. Het is niet toegestaan iemand te forceren zijn/haar kofferbak open te maken. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1 en alle afgenomen spullen zullen terug gaan naar de rechtvaardige eigenaar gaan.
 
 ### 4.3 - Gebruik zware wapens
 1. Het is pas toegestaan een zwaar wapen te gebruiken wanneer er minimaal vijf agenten in dienst zijn. Onder zware wapens verstaan we:

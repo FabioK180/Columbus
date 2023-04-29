@@ -282,6 +282,9 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 ### 3.31 - Trackers
 1. Het is niet toegestaan om twee of meerdere trackers onder 1 voertuig te plakken. Hij/zij die dit wel doet zal, gestraft worden volgens categorie 1.
 
+### 3.32 - Identificeren
+1. Het is niet toegestaan "nep identificatie" en "nep vingeradrukken" te gebruiken. Iedereen die in de stad komt staat met DNA geregistreerd in het systeem en hoort zich hier aan te houden. Hij/zij die dit niet doet, zal gestraft worden volgens categorie 1.
+
 ## 4. Criminele activiteiten
 
 ### 4.1 - Groeien als crimineel

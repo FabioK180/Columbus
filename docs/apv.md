@@ -124,6 +124,7 @@ Voorbeelden hiervan zijn:
 ### 3.10 - No value of life
 1. Je dient altijd je leven te waarderen en te spelen alsof gewond raken of dood gaan echt het einde van je leven betekent. Beeld je in hoe jij hier in het echt op zou reageren. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens categorie 2. Enkele voorbeelden:
     * Zodra iemand een pistool op je richt binnen 20 stappen en je niet achter beschutting staat, blijf je staan, werk je mee en val je deze persoon niet aan. Ook in groeps verband blijf je staan. Er is een wapen in het spel en de speler is zijn leven dierbaar.
+        * De speler mag op dit moment geen wapen meer trekken.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
         * Dit geldt alleen wanneer die persoon een bedreiging vormt voor jou.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren. (Je bent verplicht eerst te landen en dan pas in of uit te stappen.)
@@ -134,6 +135,7 @@ Voorbeelden hiervan zijn:
     * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen. Ramen die bij de speler op beeld eruit lijken tellen niet als "gat" om je mes doorheen te steken. Dit valt onder powergaming.
     * Het is geen no value of life indien de persoon beschutting heeft achter een object waar in realiteit geen kogels/slag- of steekwapens doorheen kunnen.
     * Het is geen no value of life wanneer er een vuurwapen gericht wordt naar een rijdende auto. De persoon mag dan gewoon door rijden.
+    * Het is geen no value of life wanneer de speler al een wapen vast heeft. Deze heeft het recht terug te schieten mits er niet vanaf achteren een wapen gericht is.
 
 ### 3.11 - New Life Rule
 1. Indien uw karakter dood is gegaan wordt er verwacht dat hij/zij de laatste roleplay vergeet. Houdt de speler zich hier niet aan, zal hij/zij gestraft worden volgens categorie 1.
@@ -307,6 +309,7 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
     * Kan dit niet gedaan worden doordat spullen al verkocht zijn zal er een straf uitgedeeld kunnen worden volgens categorie 6. De rechtvaardige eigenaar zal dan een refund hiervoor kunnen ontvangen.
 7. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
 8. Het is niet toegestaan iemand te forceren zijn/haar kofferbak open te maken. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1 en alle afgenomen spullen zullen terug gaan naar de rechtvaardige eigenaar gaan.
+9. Het is toegestaan illegale goederen af te fouilleren wanneer de speler iemand hostaged.
 
 ### 4.3 - Gebruik zware wapens
 1. Het is pas toegestaan een zwaar wapen te gebruiken wanneer er minimaal vijf agenten in dienst zijn. Onder zware wapens verstaan we:
@@ -475,6 +478,8 @@ Wordt dit 2 of meer keren gedaan dan zal het wapen waarmee geschoten wordt, inge
 
 ### 5.5 - Overheids items
 1. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan door te verkopen of te geven aan iemand die niet over deze baan beschikt. Hij/zij die wel doet, zal gestraft worden volgens 5.1 - corruptie.
+2. Het is niet toegestaan spullen die verkregen zijn vanuit uw baan uitdienst te gebruiken. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1.
+    * Hieronder vallen bijvoorbeeld EHBO kits, Repairkit en dergelijke. 
 
 ### 5.6 - Gedrag als overheidsmedewerker
 1. Wanneer de speler in dienst is bij een van de overheidsbanen dient deze ten alle tijden professioneel te gedragen.

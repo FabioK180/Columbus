@@ -313,6 +313,8 @@ Mocht dit 2 keer of vaker overtreden zijn dan zal het gebruikte wapen bij de ove
 7. Na het oplichten of overvallen is het niet toegestaan om de desbetreffende burger te vermoorden als deze netjes heeft mee gewerkt en geen brutale mond had. Hij/zij die dit wel doet, zal bestraft worden volgens categorie 1.
 8. Het is niet toegestaan iemand te forceren zijn/haar kofferbak open te maken. Hij/zij die dit wel doet, zal gestraft worden volgens categorie 1 en alle afgenomen spullen zullen terug gaan naar de rechtvaardige eigenaar gaan.
 9. Het is toegestaan illegale goederen af te fouilleren wanneer de speler iemand hostaged.
+10. De GHB overdosis pil mag niet gebruikt worden om iemand te rippen. Ook bij onrealistisch gebruik van de pil kunnen er sancties toegekend worden. Hij/zij die zich hier niet aan houdt, zal gestraft worden volgens categorie 1.
+
 
 ### 4.3 - Gebruik zware wapens
 1. Het is pas toegestaan een zwaar wapen te gebruiken wanneer er minimaal vijf agenten in dienst zijn. Onder zware wapens verstaan we:

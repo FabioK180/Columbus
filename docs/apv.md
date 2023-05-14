@@ -141,7 +141,7 @@ Voorbeelden hiervan zijn:
 1. Indien uw karakter dood is gegaan wordt er verwacht dat hij/zij de laatste roleplay vergeet. Houdt de speler zich hier niet aan, zal hij/zij gestraft worden volgens categorie 1.
     * Dit houdt ook in dat wanneer iemand dood is gegaan hij/zij niet meer mag deelnemen aan hetzelfde scenario.
     * Het is ook niet zo dat wanneer de speler weer levend is en hij/zij informatie krijgt van andere spelers over wat er is gebeurd, hij/zij mag deelnemen aan dit scenario. Je bent compleet vergeten wie je heeft vermoord en wat er allemaal bij gebeurd is. Je start weer opnieuw met alles. Wraakacties mogen daarom ook niet door jou uitgevoerd worden.
-    * Het is, nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 60 min niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
+    * Het is, nadat een lid van een groepering van het leven beroofd is door een rivaliserende groep, niet toegestaan voor de speler die dood is gegaan mee te doen aan eventuele wraakacties tegen deze groep.
     * Het verschil tussen punt 2 en 3 is als volgt, heeft een groepering de speler gedood, geldt punt 3. Is dit gedaan door 1 persoon dan geldt punt 2.
 
 ### 3.12 - Green zones

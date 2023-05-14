@@ -418,8 +418,8 @@ ambtenaar in functie.
 |   | Celstraf | Taakstraf | Boete |
 |---|---|---|---|
 | Eerste Veroordeling | | | € 5.000,- |
-| Tweede Veroordeling  | 10 maanden | | € 7.500,- |
-| Meerdere Veroordelingen | 15 maanden | | € 10.000,- |
+| Tweede Veroordeling  | 10 maanden | | € 10.000,- |
+| Meerdere Veroordelingen | 15 maanden | | € 15.000,- |
 
 ### Artikel III-10 Fout parkeren (25 RVV 1990)
 1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
